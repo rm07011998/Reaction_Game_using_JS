@@ -1,2 +1,2 @@
-# Reaction_Game_using_JS
-A simple reaction game using js,html,css
+# Reaction_Game
+A simple reaction game using javascript,html,css
